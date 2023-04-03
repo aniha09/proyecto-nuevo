@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1680014954 source:c:\users\anjuarez\documents\proyecto nuevo\funciones.c
+
+1680013232 c:\users\anjuarez\documents\proyecto nuevo\cabeceras.h
+
+1680015766 source:c:\users\anjuarez\documents\proyecto nuevo\main.c
+	<stdio.h>
+	<stdlib.h>
+
